@@ -1,0 +1,24 @@
+.title {
+    color: $second_color;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: default;
+    display: block;
+    &_adv {
+        text-align: center;
+    }
+    &_consultation {
+        color: #ffffff;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    &_rewiew {
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 70px;
+    }
+    &_catalog {
+        text-align: center;
+    }
+}
